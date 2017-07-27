@@ -1,0 +1,36 @@
+
+
+<div class="container">
+  <div class="row" style="background-color: #261d6d">
+    <div class="col-xs-12">
+      <h1 class="text-center" style="color: white">Carrie Fisher</h1>
+      <h2 class="text-center" style="color: white"><em>Star Wars Royalty</em></h2>
+      <div class="thumbnail" style="background-color: #8f8e99"> <img src="https://s-media-cache-ak0.pinimg.com/564x/58/06/6d/58066d50ac7f12085da3db5e2ceb7e5e.jpg"> </img></div>
+    
+    <h3 class="text-center" style="color:white"> Carrie's Life:</h3>
+    
+    <div class="col-xs-12 col-sm-8 col-sm-offset-2" style="color:white">
+    
+    <li><strong>1956:</strong> Carrie Frances Fisher was born in Beverly Hills, California, the daughter of singer Eddie Fisher and actress Debbie Reynolds.</li>
+      <li><strong>1975:</strong> In 1975, Fisher made her film debut in the Columbia comedy Shampoo starring Warren Beatty, Julie Christie and Goldie Hawn, with Lee Grant and Jack Warden as her character's parents.</li>
+      <li><strong>1977:</strong> In 1977, Fisher starred as Princess Leia in Star Wars (later retitled Star Wars Episode IV: A New Hope) opposite Mark Hamill and Harrison Ford.</li>
+      <li><strong>1980:</strong> In 1980, she reprised her role as Princess Leia in The Empire Strikes Back.</li>
+      <li><strong>1983:</strong> In 1983, Fisher returned to the role of Princess Leia in Return of the Jedi.</li>
+      <li><strong>1987:</strong> In 1987, Fisher published her first novel, Postcards from the Edge.  It became a bestseller, and she received the Los Angeles Pen Award for Best First Novel. </li>
+      <li><strong>2005:</strong> In 2005, Women in Film & Video - DC recognized Fisher with the Women of Vision Award. She published many scripts from 1991-2005</li>
+      <li><strong>2006:</strong> In 2007, Fisher wrote and performed in her one-woman play Wishful Drinking at the Geffen Playhouse in Los Angeles from November 7, 2006, to January 14, 2007. Which she later turned into a book in 2008.</li>
+      <li><strong>2011:</strong> In 2011, Fisher released her non-fiction title Shockaholic.</li>
+      <li><strong>2015:</strong> In 2015, Fisher reprised her role of Princess Leia in Star Wars Episode VII, subtitled The Force Awakens, released worldwide on December 18, 2015. Fisher was nominated for a 2016 Saturn Award for Best Supporting Actress for her portrayal.</li>
+      <li><strong>2016:</strong> In 2016, Fisher released her memoir, The Princess Diarist. The book is based on diaries she kept while filming the original Star Wars trilogy in the late 70s and early 80s.</li>
+      <li><strong>2016:</strong> At the end of 2016 Carrie left us forever and became one with the force.</li>
+      <div class="row">
+    <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+      <h2>Learn More about Carrie</h2>
+      <p>Visit her website <a href="http://carriefisher.com/" target="_blank">here</a></p>
+        
+      
+    </div>  
+    </div>
+    </div>
+  </div>
+</div>
